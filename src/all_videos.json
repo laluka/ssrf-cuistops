@@ -1,0 +1,316 @@
+[
+  {
+    "id": "eNbegtDdW_A",
+    "title": "Un cluster en MicroVM avec VirtInk et ClusterAPI !",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=eNbegtDdW_A",
+    "upload_date": "20260113"
+  },
+  {
+    "id": "sB0RM_8oXd4",
+    "title": "Un Dockerfile pour installer une machine ? - BootC",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=sB0RM_8oXd4",
+    "upload_date": "20260113"
+  },
+  {
+    "id": "VHjpfFnoalg",
+    "title": "Prise en main de PVMSS (avec JHommet) + Kamaji x Talos (le retour)",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=VHjpfFnoalg",
+    "upload_date": "20260113"
+  },
+  {
+    "id": "9DgRdplmbYE",
+    "title": "Mission : Autoscaling sur CAPI avec KubeVirt !",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=9DgRdplmbYE",
+    "upload_date": "20260113"
+  },
+  {
+    "id": "GrWZdbafpYc",
+    "title": "CuistOps - OpenBao sur Kube",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=GrWZdbafpYc",
+    "upload_date": "20260113"
+  },
+  {
+    "id": "zVsBDaAc-mM",
+    "title": "Tech and chill & graphs animés !",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=zVsBDaAc-mM",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "qhj1qbywvpQ",
+    "title": "Kubevela et l'OAM",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=qhj1qbywvpQ",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "DbEzTZjG4Vk",
+    "title": "Installation du lab de Joel (la revanche)",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=DbEzTZjG4Vk",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "66VUpy7U6zI",
+    "title": "Highlight: CuistOps - Découverte de Kyverno (la vengeance de la politique de sécurité)",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=66VUpy7U6zI",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "xr5X7OY0NEY",
+    "title": "Découverte de OLM (/ GlassKube)",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=xr5X7OY0NEY",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "gN0SRLH9jds",
+    "title": "Des ControlPlanes Talos managés avec Kamaji !",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=gN0SRLH9jds",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "TObU2dHgy7U",
+    "title": "CuistOps - Quickwit, le potentiel remplaçant de Loki/ELK",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=TObU2dHgy7U",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "0UlVItOUkXk",
+    "title": "CuistOps - Prise en main de Omni et découverte de l'API Gateway",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=0UlVItOUkXk",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "oshE3I6MbV4",
+    "title": "CuistOps - OpenBao sur Kube",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=oshE3I6MbV4",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "r1mu6xZp_6Y",
+    "title": "CuistOps - Kubernetes pour les devs avec DAPR !",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=r1mu6xZp_6Y",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "482Y3PqnftU",
+    "title": "CuistOps - Katrix et les DevOps s'évanouissent",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=482Y3PqnftU",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "F2kx1gO_PEg",
+    "title": "CuistOps - Harvester + Rancher, The final episode",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=F2kx1gO_PEg",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "BI10ZQAsu_s",
+    "title": "CuistOps - Découverte de Kyverno (la vengeance de la politique de sécurité)",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=BI10ZQAsu_s",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "94heegaT7E8",
+    "title": "CuistOps - Des MicroVMs avec Firecracker",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=94heegaT7E8",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "X89xufZclK8",
+    "title": "CuistOps - Cilium Cluster Mesh avec @jligier",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=X89xufZclK8",
+    "upload_date": "20260112"
+  },
+  {
+    "id": "8hEzty4c8AM",
+    "title": "CuistOps - du GitOps sur Kubernetes avec ArgoCD",
+    "links": [
+      "https://x.com/jseguillon",
+      "https://x.com/TheBidouilleur",
+      "https://jseguillon.io",
+      "https://une-tasse-de.cafe",
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=8hEzty4c8AM",
+    "upload_date": "20240501"
+  },
+  {
+    "id": "esinjSCHt8I",
+    "title": "CuistOps - On découvre Pulumi !",
+    "links": [
+      "https://x.com/jseguillon",
+      "https://x.com/TheBidouilleur",
+      "https://jseguillon.io",
+      "https://une-tasse-de.cafe",
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=esinjSCHt8I",
+    "upload_date": "20240501"
+  },
+  {
+    "id": "90gqm8SqUh8",
+    "title": "CuistOps - Découverte de Cilium Tetragon (et comparaison avec Falco)",
+    "links": [
+      "https://x.com/jseguillon",
+      "https://x.com/TheBidouilleur",
+      "https://jseguillon.io",
+      "https://une-tasse-de.cafe",
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=90gqm8SqUh8",
+    "upload_date": "20240501"
+  },
+  {
+    "id": "202DdlkuSY4",
+    "title": "CuistOps - On continue Falco (hors/dans Kube)",
+    "links": [
+      "https://x.com/jseguillon",
+      "https://x.com/TheBidouilleur",
+      "https://jseguillon.io",
+      "https://une-tasse-de.cafe",
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=202DdlkuSY4",
+    "upload_date": "20240426"
+  },
+  {
+    "id": "3fQCUHO0dsY",
+    "title": "CuistOps - Talos, l'OS immuable pour déployer du Kube !",
+    "links": [
+      "https://x.com/jseguillon",
+      "https://x.com/TheBidouilleur",
+      "https://jseguillon.io",
+      "https://une-tasse-de.cafe"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=3fQCUHO0dsY",
+    "upload_date": "20240425"
+  },
+  {
+    "id": "hLNkKHY6Roo",
+    "title": "CuistOps - Surveillez vos appels systèmes avec Falco",
+    "links": [
+      "https://x.com/jseguillon",
+      "https://x.com/TheBidouilleur",
+      "https://jseguillon.io",
+      "https://une-tasse-de.cafe",
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=hLNkKHY6Roo",
+    "upload_date": "20240425"
+  },
+  {
+    "id": "c3ZssmhA5mY",
+    "title": "CuistOps - Kubevirt-inception !",
+    "links": [
+      "https://www.twitch.tv/cuistops",
+      "https://x.com/jseguillon",
+      "https://x.com/TheBidouilleur",
+      "https://jseguillon.io",
+      "https://une-tasse-de.cafe"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=c3ZssmhA5mY",
+    "upload_date": "20240425"
+  },
+  {
+    "id": "xQFiVNvGaZ0",
+    "title": "CuistOps - Installation d'un cluster de production",
+    "links": [
+      "https://x.com/jseguillon",
+      "https://x.com/TheBidouilleur",
+      "https://jseguillon.io",
+      "https://une-tasse-de.cafe"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=xQFiVNvGaZ0",
+    "upload_date": "20240425"
+  },
+  {
+    "id": "8wHTQe6QJTg",
+    "title": "CuistOps - Persistance, tentative de live migration",
+    "links": [
+      "https://x.com/jseguillon",
+      "https://x.com/TheBidouilleur",
+      "https://jseguillon.io",
+      "https://une-tasse-de.cafe"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=8wHTQe6QJTg",
+    "upload_date": "20240424"
+  },
+  {
+    "id": "IyHi_VWXU_E",
+    "title": "CuistOps - Live Migration de VM KubeVirt avec Mickael Roger",
+    "links": [
+      "https://jseguillon.io",
+      "https://une-tasse-de.cafe"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=IyHi_VWXU_E",
+    "upload_date": "20240424"
+  },
+  {
+    "id": "RrYm43MRpCA",
+    "title": "CuistOps - Quentin découvre Kubevirt avec Joël",
+    "links": [
+      "https://jseguillon.io",
+      "https://une-tasse-de.cafe"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=RrYm43MRpCA",
+    "upload_date": "20240117"
+  }
+]
