@@ -1,5 +1,63 @@
 [
   {
+    "id": "C8sNK_DRdDI",
+    "title": "Qwen 45b A3b + OpenClaw + ClusterAPI, un live surement WTF",
+    "links": [],
+    "webpage_url": "https://www.youtube.com/watch?v=C8sNK_DRdDI",
+    "upload_date": "20260330"
+  },
+  {
+    "id": "czYhMgA7PWg",
+    "title": "Un cluster en MicroVM avec VirtInk et ClusterAPI !",
+    "links": [
+      "https://www.twitch.tv/cuistops"
+    ],
+    "webpage_url": "https://www.youtube.com/watch?v=czYhMgA7PWg",
+    "upload_date": "20260329"
+  },
+  {
+    "id": "9vXwSJ-Mhvw",
+    "title": "Suite du labs de Joel + ArgoCD Pull",
+    "links": [],
+    "webpage_url": "https://www.youtube.com/watch?v=9vXwSJ-Mhvw",
+    "upload_date": "20260329"
+  },
+  {
+    "id": "SMvSpjYOxWI",
+    "title": "OpenClaw + OLLama - Épisode 2 !",
+    "links": [],
+    "webpage_url": "https://www.youtube.com/watch?v=SMvSpjYOxWI",
+    "upload_date": "20260329"
+  },
+  {
+    "id": "k_16jmMxtq4",
+    "title": "Les SREs face à la Data : l'exemple de Spark 👊",
+    "links": [],
+    "webpage_url": "https://www.youtube.com/watch?v=k_16jmMxtq4",
+    "upload_date": "20260329"
+  },
+  {
+    "id": "tmKdES1IFR8",
+    "title": "Highlight: 50 nuances de Kubernetes (avec Denis Germain) !",
+    "links": [],
+    "webpage_url": "https://www.youtube.com/watch?v=tmKdES1IFR8",
+    "upload_date": "20260329"
+  },
+  {
+    "id": "pBm3pY1QGio",
+    "title": "Découverte de Velero (avec Hervé Voisin ) !",
+    "links": [],
+    "webpage_url": "https://www.youtube.com/watch?v=pBm3pY1QGio",
+    "upload_date": "20260329"
+  },
+  {
+    "id": "1syTjjdsXR4",
+    "title": "(Tentative de) Mettre OpenClaw avec OLLama",
+    "links": [],
+    "webpage_url": "https://www.youtube.com/watch?v=1syTjjdsXR4",
+    "upload_date": "20260329"
+  },
+  {
     "id": "eNbegtDdW_A",
     "title": "Un cluster en MicroVM avec VirtInk et ClusterAPI !",
     "links": [
